@@ -209,14 +209,11 @@ public class ChatFormController extends Thread{
         }
     }
 
-    public void happyOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE42");
-    }
+    public void happyOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE42"); }
 
     public void coolOnAction(MouseEvent mouseEvent) {
         txtMsg.appendText("\uD83D\uDE0E");
     }
-
 
     public void smileOnAction(MouseEvent mouseEvent) {
         txtMsg.appendText("\uD83D\uDE02");
