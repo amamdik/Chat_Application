@@ -30,7 +30,7 @@
                 <Font name="Times New Roman" size="17.0" />
             </font>
         </TextField>
-        <Button fx:id="btnJoin" layoutX="78.0" layoutY="406.0" mnemonicParsing="false" onAction="#loginOnAction" style="-fx-background-radius: 30; -fx-background-color: #c1c4cb;" text="JOIN CHAT">
+        <Button fx:id="buttonJoin" layoutX="78.0" layoutY="406.0" mnemonicParsing="false" onAction="#loginOnAction" style="-fx-background-radius: 30; -fx-background-color: #c1c4cb;" text="JOIN CHAT">
             <font>
                 <Font name="Times New Roman Bold" size="20.0" />
             </font>
