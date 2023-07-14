@@ -209,50 +209,27 @@ public class ChatFormController extends Thread{
         }
     }
 
-    public void happyOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE42"); }
+    public void happyOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE42");}
 
-    public void coolOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE0E");
-    }
+    public void coolOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE0E");}
 
-    public void smileOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE02");
-    }
+    public void smileOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE02");}
 
-    public void hugOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83E\uDD17");
-    }
+    public void hugOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83E\uDD17"); }
 
-    public void hartOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDC96");
-    }
+    public void heartOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDC96");}
 
-    public void lovelyOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE0D");
-    }
+    public void lovelyOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE0D");}
 
-    public void sleepyOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE34");
-    }
+    public void sleepyOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE34");}
 
-    public void supprisedOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE2E");
-    }
+    public void surprisedOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE2E");}
 
-    public void partyOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDC4D");
-    }
+    public void rightOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDC4D");}
 
-    public void angryOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE21");
-    }
+    public void angryOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE21");}
 
-    public void sadOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE1F");
-    }
+    public void sadOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE1F");}
 
-    public void cryOnAction(MouseEvent mouseEvent) {
-        txtMsg.appendText("\uD83D\uDE2D");
-    }
-
+    public void cryOnAction(MouseEvent mouseEvent) { txtMsg.appendText("\uD83D\uDE2D");}
 }
